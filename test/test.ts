@@ -1,7 +1,7 @@
 // test.ts
 
-import { CircuitBreaker } from "../src/circuit-breaker/CircuitBreaker";
-import { BreakerOptions } from "../src/circuit-breaker/BreakerOptions";
+import { CircuitBreaker } from "./circuit-breaker/CircuitBreaker";
+import { BreakerOptions } from "./circuit-breaker/BreakerOptions";
 
 
 
